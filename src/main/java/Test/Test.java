@@ -2,10 +2,15 @@ package Test;
 
 public class Test {
 	public static void main(String[] args) {
-		System.out.println("bbbb");
 		Utf();
+		test();
 	}
-	public static void Utf(){
-		System.out.println("hhhh");
+
+	public static void Utf() {
+		System.out.println("gay超是个gay");
+	}
+
+	public static void test() {
+		System.out.println("许超是个小傻子");
 	}
 }
