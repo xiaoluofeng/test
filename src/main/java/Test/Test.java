@@ -7,10 +7,10 @@ public class Test {
 	}
 
 	public static void Utf() {
-		System.out.println("gay超是个gay");
+		System.out.println("许超傻子");
 	}
 
 	public static void test() {
-		System.out.println("许超是个小傻子");
+		System.out.println("许超狗女人");
 	}
 }
